@@ -58,3 +58,5 @@ next-env.d.ts
 
 node_modules
 forge-std/*
+forge-std
+lib/forge-std
